@@ -24,5 +24,5 @@ export 'src/transaction_output.dart';
 export 'src/types.dart';
 export 'src/utils/hex.dart';
 export 'src/utils/uuid.dart';
-export 'src/witness.dart';
 export 'src/withdrawal.dart';
+export 'src/witness.dart';
